@@ -1,4 +1,4 @@
-# Trabalhodenet
+# Trabalho de net
 
 Nosso projeto de A6LP2 é sobre um sistema de votação.
 O usuário tem acesso a todas as opções de candidatos ou tópicos que estão em votação e consegue votar na opção desejada.
